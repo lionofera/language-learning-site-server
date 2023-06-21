@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "01",
+        "name": "English"
+    },
+    {
+        "id" : "02",
+        "name": "German"
+    },
+    {
+        "id" : "03",
+        "name": "French"
+    },
+    {
+        "id" : "04",
+        "name": "Spanish"
+    },
+    {
+        "id" : "05",
+        "name": "Chinese"
+    },
+    {
+        "id" : "06",
+        "name": "Arabic"
+    }
+]

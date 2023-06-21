@@ -1,0 +1,69 @@
+[
+    {
+        "cat_id" : "01",
+        "name" : "English",
+        "img" : "https://i.ibb.co/5jKTDBy/different-language-speech-bubble-hello-concept-1.jpg",
+        "rating" : {
+            "number" : "5",
+            "comment" : "excellent"
+        },
+        "level" : "{Regular, Intensive, Premium}"
+
+    },
+    {
+        "cat_id" : "02",
+        "name" : "German",
+        "img" : "https://i.ibb.co/5jKTDBy/different-language-speech-bubble-hello-concept-1.jpg",
+        "rating" : {
+            "number" : "5",
+            "comment" : "excellent"
+        },
+        "level" : "{Regular, Intensive, Premium}"
+
+    },
+    {
+        "cat_id" : "03",
+        "name" : "French",
+        "img" : "https://i.ibb.co/5jKTDBy/different-language-speech-bubble-hello-concept-1.jpg",
+        "rating" : {
+            "number" : "5",
+            "comment" : "excellent"
+        },
+        "level" : "{Regular, Intensive, Premium}"
+
+    },
+    {
+        "cat_id" : "04",
+        "name" : "Spanish",
+        "img" : "https://i.ibb.co/5jKTDBy/different-language-speech-bubble-hello-concept-1.jpg",
+        "rating" : {
+            "number" : "5",
+            "comment" : "excellent"
+        },
+        "level" : "{Regular, Intensive, Premium}"
+
+    },
+    {
+        "cat_id" : "05",
+        "name" : "Chinese",
+        "img" : "https://i.ibb.co/5jKTDBy/different-language-speech-bubble-hello-concept-1.jpg",
+        "rating" : {
+            "number" : "5",
+            "comment" : "excellent"
+        },
+        "level" : "{Regular, Intensive, Premium}"
+
+    },
+    {
+        "cat_id" : "06",
+        "name" : "Arabic",
+        "img" : "https://i.ibb.co/5jKTDBy/different-language-speech-bubble-hello-concept-1.jpg",
+        "rating" : {
+            "number" : "5",
+            "comment" : "excellent"
+        },
+        "level" : "{Regular, Intensive, Premium}"
+
+    }
+
+]
